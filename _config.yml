@@ -1,4 +1,3 @@
-layout_spectrum: 0.2770028274971992
 typography_spectrum: 0.21030161692760885
 color:
   brandStrength: 0.7244662295561284
@@ -11,7 +10,9 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+layout_spectrum: 0.2770028274971992
 name: The CPI Group
+title: Look Deeper
 description: >-
   Effective Decision-Making is the key to business
   success                                              We help point the way
